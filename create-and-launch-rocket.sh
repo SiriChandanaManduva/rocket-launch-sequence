@@ -4,7 +4,7 @@ MISSION=$mission_name
 
 # mkdir $MISSION
 
-bash rocket-add.sh $MISSION
+bash rocket-add.sh $MISSION/
 
 bash rocket-start-power.sh $MISSION/
 
