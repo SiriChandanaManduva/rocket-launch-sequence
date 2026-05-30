@@ -4,6 +4,6 @@ if [ -z "$1" ]; then
     echo "Please input a mission name"
     else
     echo "Starting engine ....."
-    sleep 1
+    sleep 0.5
     echo "Done!" \
 fi
