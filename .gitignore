@@ -1,0 +1,11 @@
+# Mission directories created at runtime
+*-mission/
+*-mission
+
+# OS files
+.DS_Store
+*.db
+
+# Temp files
+*.tmp
+*.log
